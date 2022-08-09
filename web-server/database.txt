@@ -1,3 +1,0 @@
-email, subject, message
-saf@fe,fe,ef
-asf@fesf,sfsfe,sefs
